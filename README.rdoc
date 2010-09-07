@@ -1,0 +1,11 @@
+= Mailer
+
+  Easy send emails by multiplay users
+  
+== Usage
+
+Create mail.html and emails.txt files in tmp folder, then:
+
+  ruby start.rb
+  
+== Brainberry 2010
