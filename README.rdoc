@@ -1,10 +1,19 @@
 = Mailer
 
-  Easy send emails by multiplay users
-  
+Easy send emails by multiplay users
+
+== Install
+
+  git clone git://github.com/Brainberry/mailer.git
+
 == Usage
 
-Create mail.html and emails.txt files in tmp folder, then:
+Create mail.html and emails.txt files in tmp folder:
+
+  touch tmp/mail.html
+  touch tmp/emails.txt
+  
+then:
 
   ruby start.rb
   
